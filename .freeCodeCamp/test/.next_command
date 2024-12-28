@@ -82,3 +82,5 @@ git commit -m "Initial commit"
 git push -u new-origin main
 git status
 psql --username=freecodecamp --dbname=postgres
+git status
+git add .
